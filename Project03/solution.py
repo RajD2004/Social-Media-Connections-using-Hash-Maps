@@ -1,8 +1,4 @@
-"""
-Hash Table Project
-CSE 331 FS24 (Onsay)
-starter.py
-"""
+
 from __future__ import annotations
 from collections import deque
 from typing import Optional, TypeVar, List, Tuple

@@ -1,7 +1,3 @@
-"""
-Project 3 - Hash Table Tests
-CSE 331 SS24
-"""
 
 import random
 import unittest
